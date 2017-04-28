@@ -1,5 +1,6 @@
 # business-case-DA
 Data Analysis of Customer demographics &amp; Predictive modeling of Purchase amounts. 
+
 Case study and DataHack competition hosted at Analytics Vidhya (www.datahack.analyticsvidhya.com/contest/black-friday/).
 
 Content table:
