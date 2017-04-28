@@ -2,9 +2,10 @@
 Data Analysis of Customer demographics &amp; Predictive modeling of Purchase amounts. 
 Case study and DataHack competition hosted at Analytics Vidhya (www.datahack.analyticsvidhya.com/contest/black-friday/).
 
-I. Data Analysis of customer demographics
-II. Analysis of target/predictor variables
-III. Predictive Modeling of purchase amount
+Content table:
+1. Data Analysis of customer demographics
+2. Analysis of target/predictor variables
+3. Predictive Modeling of purchase amount
 
 This Notebook was created with intention to:
 - create a business case type portfolio project
