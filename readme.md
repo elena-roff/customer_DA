@@ -13,6 +13,8 @@ This Notebook was created with intention to:
 - help aspired data analysts to manage their data analysis projects' workflow
 - have a dipper understanding of algorythms for regression tasks.
 
+*Now you can go ahead and open an .ipynb file.*
+
 Thanks for reading!
 
 Datageekette
