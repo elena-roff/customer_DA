@@ -1,7 +1,9 @@
-Data Analysis of Customer demographics.
+To check out the project open an .ipynb file.
 
-*To check out the project go ahead and open an .ipynb file.*
+*This notebook is a part of a freelance project. Sensitive variables were masked.*
 
-Thanks for reading!
+Summary:
+- Exploratory Analysis of Customer data.
+- Elaboration of a customer portrait.
 
-Datageekette
+Thank you for reading!
